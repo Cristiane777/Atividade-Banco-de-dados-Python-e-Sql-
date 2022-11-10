@@ -1,1 +1,1 @@
-# Atividade-Banco-de-dados-Python-e-Sql-
+# Atividade Banco de dados (Python e Sql)
